@@ -1,1 +1,15 @@
+<! DOSTYPE html>
 
+<html>
+    <head>
+        <title>Tapsirma - 2</title>
+    </head>
+    <style>
+        .tapsirma{
+            background-color: green;
+        }
+    </style>
+    <body>
+        I<span class="tapsirma">Love</span>Taxtakopir
+    </body>
+</html>
